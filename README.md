@@ -17,3 +17,6 @@ A simple Java project for managing student data using MySQL database.
 - mysql workbench
 - IntelliJ IDEA
 - Git / GitHub
+
+## Repo Link
+https://github.com/gowthamidola123/StudentManagementSystem
