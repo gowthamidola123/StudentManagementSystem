@@ -12,3 +12,8 @@ A simple Java project for managing student data using MySQL database.
 - Java
 - MySQL
 - JDBC
+  
+## Tools Used
+- mysql workbench
+- IntelliJ IDEA
+- Git / GitHub
